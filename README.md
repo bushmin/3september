@@ -1,4 +1,6 @@
 # 3september
-Silly game about escaping 3rd of september.
+Я календарь переверну, и снова третье сентября...
 
-Working project: https://0309.today
+Играть тут: https://0309.today
+
+(в игре есть Хорошая, Плохая и Настоящая концовки)
